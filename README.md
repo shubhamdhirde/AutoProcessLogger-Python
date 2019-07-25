@@ -9,4 +9,4 @@ After taking snapshot of processes it creates a log file and sends it to spacife
 ## Usage  
 $Script_name Dir_Name Time(Min) Reciever_Mail_Id    
 ###### Tip  
-Turn on "Less secure apps on" senders gmail account.
+Turn on **"Less secure apps on"** senders gmail account.
