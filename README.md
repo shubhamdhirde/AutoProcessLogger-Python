@@ -1,6 +1,6 @@
 # AutoProcessLogger-Python  
-This automation scripts takes snapshot of processes such as its name, PID, memory usage, thread count and number of child processes. scripts executes periodically by the time spacified by the user of script.  
-After taking snapshot of processes it creates a log file and sends it to spacifed email address.    
+This automation scripts takes snapshot of processes such as its name, PID, memory usage, thread count and number of child processes. scripts executes periodically by the time specified  by the user of script.  
+After taking snapshot of processes it creates a log file and sends it to specified  email address.    
 ## Important modules used  
 1. psutil : iter_process() function is used to take snapshot of process
 2. smtplib & email : To send attached log file to user
